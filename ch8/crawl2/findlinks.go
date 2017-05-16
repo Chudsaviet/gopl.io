@@ -14,7 +14,7 @@ import (
 	"log"
 	"os"
 
-	"gopl.io/ch5/links"
+	"github.com/chudsaviet/gopl.io/ch5/links"
 )
 
 //!+sema
